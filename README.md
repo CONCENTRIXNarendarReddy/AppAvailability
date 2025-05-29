@@ -67,7 +67,8 @@ This plugin enables you to verify if an app is installed on the user's device. I
 Simply run this command to add the latest version of AppAvailability from [npm](https://www.npmjs.com/package/cordova-plugin-kelter-appavailability) to your project:
 
 ```
-$ cordova plugin add cordova-plugin-kelter-appavailability --save
+<!-- $ cordova plugin add cordova-plugin-kelter-appavailability --save -->
+$ cordova plugin add https://github.com/CONCENTRIXNarendarReddy/AppAvailability.git--save
 ```
 
 Alternatively, you can install AppAvailability from [GitHub](https://github.com/CONCENTRIXNarendarReddy/AppAvailability):
